@@ -1,0 +1,21 @@
+.selector {
+  property: value1;
+}
+
+@media (max-width: 100em) {
+  .selector {
+    property: value2;
+  }
+}
+
+@media (max-width: 75em) {
+  .selector {
+    property: value4;
+  }
+}
+
+@media (max-width: 50em) {
+  .selector {
+    property: value3;
+  }
+}
