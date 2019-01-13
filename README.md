@@ -1,7 +1,8 @@
 group-css-media-queries-php
 =======================
 
-CSS postprocessing: group media queries written on php. Useful for postprocessing preprocessed CSS files.
+CSS postprocessing: group media queries written on php. Useful for postprocessing preprocessed CSS files.\
+This function is a php implementation the [group-css-media-queries](https://github.com/Se7enSky/group-css-media-queries).
 
 # What is it?
 
